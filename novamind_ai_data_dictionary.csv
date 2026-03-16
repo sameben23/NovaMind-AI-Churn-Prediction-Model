@@ -1,0 +1,17 @@
+field_name,description,data_type,example
+user_id,Unique NovaMind AI subscriber identifier,String,NMH000001
+country,Subscriber country,Categorical,Ghana
+region,Continent-level grouping,Categorical,Africa
+subscription_plan,Subscription tier,Categorical,Free / Pro / Business
+usage_frequency,Days active in the last 30 days,Integer,18
+feature_adoption,Composite feature adoption score from 1 to 10,Integer,7
+failed_payments,Count of failed payments in recent billing cycles,Integer,2
+support_tickets,Support tickets raised in the recent period,Integer,3
+last_active_days_ago,Number of days since the last recorded activity,Integer,5
+prompt_volume,Prompts submitted in the last month,Integer,1240
+api_or_app,Primary access channel,Categorical,API / App
+renewal_behavior,Most recent renewal action observed,Categorical,Renewed / Downgraded / Skipped
+months_subscribed,Customer tenure in months,Integer,14
+churned,"Historical label: 1 = churned, 0 = retained",Binary,1
+predicted_churn_probability,Score for current users only,Decimal,0.73
+risk_band,Risk grouping for current users only,Categorical,High
