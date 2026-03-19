@@ -2,7 +2,7 @@
 
 ## Churn Data EDA, Data Quality (DQ) Checks, and Random Forest Model (Databricks)
 
-This project analyzes NovaMind AI customer data in **Databricks** to (1) validate data quality, (2) perform **SQL-based exploratory data analysis (EDA)** on churn behavior, and (3) train a **Python (scikit-learn) churn prediction model** that outputs churn likelihood for current users.
+This project analyzes NovaMind AI synthetic customer data in **Databricks** to (1) validate data quality, (2) perform **SQL-based exploratory data analysis (EDA)** on churn behavior, and (3) train a **Python (scikit-learn) churn prediction model** that outputs churn likelihood for current users.
 
 > Primary notebook: `novamind_ai_DQ_EDA_Model.ipynb`
 
