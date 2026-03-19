@@ -104,4 +104,4 @@ This notebook mixes `%sql` and Databricks/Spark calls (`spark.table(...)`), so l
 ---
 
 ## License
-Add a `LICENSE` file if you plan to reuse or distribute this project.
+No license specified” / “All rights reserved”
