@@ -71,7 +71,7 @@ The notebook expects a historical dataset containing (at minimum) fields like:
 
 ## How to run
 
-### Option A — Run in Databricks
+### Run in Databricks
 1. Import `novamind_ai_DQ_EDA_Model.ipynb` into your Databricks workspace.
 2. Attach the notebook to a cluster with:
    - Spark access to Unity Catalog
@@ -80,11 +80,6 @@ The notebook expects a historical dataset containing (at minimum) fields like:
    - `novamind_ai.default.novamind_ai_historical`
    - `novamind_ai.default.novamind_ai_current_users`
 4. Run cells top-to-bottom.
-
-### Option B — Run locally (not the primary target)
-This notebook mixes `%sql` and Databricks/Spark calls (`spark.table(...)`), so local execution will require:
-- A Spark environment configured similarly, or
-- Refactoring `%sql` cells and replacing Unity Catalog reads with CSV/parquet inputs.
 
 ---
 
