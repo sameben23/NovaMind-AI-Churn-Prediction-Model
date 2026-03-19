@@ -71,7 +71,7 @@ The notebook expects a historical dataset containing (at minimum) fields like:
 
 ## How to run
 
-### Option A — Run in Databricks (recommended)
+### Option A — Run in Databricks
 1. Import `novamind_ai_DQ_EDA_Model.ipynb` into your Databricks workspace.
 2. Attach the notebook to a cluster with:
    - Spark access to Unity Catalog
