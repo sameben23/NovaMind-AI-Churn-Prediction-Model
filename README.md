@@ -86,6 +86,13 @@ The notebook expects a historical dataset containing (at minimum) fields like:
 <img width="475" height="866" alt="image" src="https://github.com/user-attachments/assets/541eab3d-8b68-42c3-b431-f7f58d15de1c" />
 <img width="475" height="889" alt="image" src="https://github.com/user-attachments/assets/73663ee3-1564-4f40-b1ab-cc5a79a69b8a" />
 
+## Results
+<img width="1419" height="782" alt="image" src="https://github.com/user-attachments/assets/e587d5bd-1126-4714-8935-13721903e576" />
+<img width="1419" height="782" alt="image" src="https://github.com/user-attachments/assets/52c30354-4140-4c14-963f-1137439aa2f5" />
+<img width="1419" height="782" alt="image" src="https://github.com/user-attachments/assets/9b8f723b-2e69-4f8e-9ddd-c1dca8657de8" />
+<img width="1419" height="782" alt="image" src="https://github.com/user-attachments/assets/d7539bd8-dbe4-4b3a-952f-6a4c949b7bee" />
+<img width="1419" height="782" alt="image" src="https://github.com/user-attachments/assets/99c1cce0-7c90-464a-86a3-2b97e52a8857" />
+
 
 ---
 
