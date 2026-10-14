@@ -101,6 +101,3 @@ The notebook expects a historical dataset containing (at minimum) fields like:
 - `novamind_ai_DQ_EDA_Model.ipynb` — end-to-end DQ checks, SQL EDA, churn modeling, and current-user scoring.
 
 ---
-
-## License
-No license specified” / “All rights reserved”
