@@ -81,6 +81,12 @@ The notebook expects a historical dataset containing (at minimum) fields like:
    - `novamind_ai.default.novamind_ai_current_users`
 4. Run cells top-to-bottom.
 
+
+## Pipeline
+<img width="475" height="866" alt="image" src="https://github.com/user-attachments/assets/541eab3d-8b68-42c3-b431-f7f58d15de1c" />
+<img width="475" height="889" alt="image" src="https://github.com/user-attachments/assets/73663ee3-1564-4f40-b1ab-cc5a79a69b8a" />
+
+
 ---
 
 ## Repository contents
