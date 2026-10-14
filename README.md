@@ -83,15 +83,6 @@ The notebook expects a historical dataset containing (at minimum) fields like:
 
 ---
 
-## Notes / best-practice considerations
-
-- **Categorical encoding:** the notebook uses `LabelEncoder` for multiple columns. For strict ML best practices, consider `OneHotEncoder` (or target encoding) and a `Pipeline`/`ColumnTransformer` to prevent training/serving skew.
-- **Reproducibility:** random seeds are set for splitting and the Random Forest (`random_state=42`).
-- **Imbalanced target:** churn is imbalanced; `class_weight="balanced"` is used and ROC-AUC is reported.
-- **Model persistence:** if you plan to operationalize this, add model + encoder persistence (e.g., `joblib`) and a consistent preprocessing pipeline.
-
----
-
 ## Repository contents
 
 - `novamind_ai_DQ_EDA_Model.ipynb` — end-to-end DQ checks, SQL EDA, churn modeling, and current-user scoring.
